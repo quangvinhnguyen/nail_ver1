@@ -1,0 +1,3 @@
+first fork form MinhTri1911/nail_ver1
+second pull nail_ver1 develop
+third git checkoutt -b new_branch <default_branch is develop>
